@@ -16,6 +16,6 @@ Y = np.array([[2, 3], [1, 4]])
 
 # print(X+Y, X-Y, X*Y,2*X )
 Z = np.dot(X, Y)
-print(Z,np.sin(Z), Z.T)
+print(Z, np.sin(Z), Z.T)
 
 
